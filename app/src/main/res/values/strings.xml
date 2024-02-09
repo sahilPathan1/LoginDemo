@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LoginApiDemo</string>
+    <string name="api_calling_using_mvvm">Api calling using MVVM</string>
+</resources>
